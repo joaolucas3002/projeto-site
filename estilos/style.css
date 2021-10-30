@@ -7,10 +7,10 @@
 :root{
 --cor1:#ffffff;
 --cor2:rgb(0, 0, 0);
---cor3:rgb(26, 150, 123);
---cor4:rgb(216, 122, 0);
---cor5:rgb(14, 78, 64);
---cor6:rgb(158, 90, 0);
+--cor3:#1A2C5B;
+--cor4:#3E4E88;
+--cor5:#B8DFF0;
+--cor6:#7971EA;
 }
 body{
     background: var(--cor5);
@@ -48,6 +48,6 @@ a{
 }
 a:hover{
     color: var(--cor1);
-    background: var(--cor4);
+    background: var(--cor3);
     border-radius: 3px;
 }
